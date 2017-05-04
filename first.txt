@@ -1,3 +1,4 @@
 ddsplit2
 
 first
+ddsplit2ddcdgt status
