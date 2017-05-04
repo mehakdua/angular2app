@@ -8,3 +8,5 @@ mastershopping
 
 learngit
 master
+learngit
+clonegit
