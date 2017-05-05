@@ -1,15 +1,1 @@
-Master
-master2
-
-
-clonegit
-mastershopping
-
-
-learngit
-master
-learngit
-clonegit
-mastershopping
-
-shopping
+<!--clear master-->
